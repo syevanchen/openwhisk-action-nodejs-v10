@@ -1,0 +1,1 @@
+FROM openwhisk/action-nodejs-v10:nightly
